@@ -1,4 +1,4 @@
-![Banner](https://link-para-seu-banner.com/imagem.png)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHzXS36FCzZFA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725907081461?e=1735171200&v=beta&t=UcPLl85bTrkQVHx9TkHRXFXa3VMV5zQlkJApBNm7DHM)
 
 # 👨‍💻 Jeremias de Oliveira Nunes
 
