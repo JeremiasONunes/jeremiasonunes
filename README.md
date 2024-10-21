@@ -14,9 +14,9 @@ Olá! Sou um entusiasta de Python e estou empenhado em aprimorar minhas habilida
 
 ## 🚀 Tecnologias e Ferramentas
 
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
@@ -42,12 +42,14 @@ Olá! Sou um entusiasta de Python e estou empenhado em aprimorar minhas habilida
 
 ## 💼 Projetos Recentes 💼
 
-- [**Projeto 1**: Automação de Tarefas com Python](https://github.com/jereh6292/projeto1)  
+- [**Projeto 1**: CRUD com API ]([https://github.com/JeremiasONunes/Swapi_api])  
 Descrição: Desenvolvi um script em Python que automatiza tarefas diárias como envio de e-mails e manipulação de arquivos.
   
-- [**Projeto 2**: Análise de Dados com Pandas](https://github.com/jereh6292/projeto2)  
+- [**Projeto 2**: Jogo de Dominó em JAVA]([https://github.com/JeremiasONunes/Jogo-de-Domino])  
 Descrição: Utilizei a biblioteca Pandas para analisar grandes conjuntos de dados e gerar relatórios automatizados.
 
+- [**Projeto 3**: CRUD com API mais HTML ]([https://github.com/JeremiasONunes/swapi_api_html])  
+Descrição: Desenvolvi um script em Python que automatiza tarefas diárias como envio de e-mails e manipulação de arquivos.
 ---
 
 ## 📊 Estatísticas do GitHub
