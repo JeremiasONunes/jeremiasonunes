@@ -54,7 +54,7 @@ Descrição: Desenvolvi um script em Python que automatiza tarefas diárias como
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Jeremias](https://github-readme-stats.vercel.app/api?username=jereh6292&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Jeremias](https://github-readme-stats.vercel.app/api?username=JeremiasONunes&show_icons=true&theme=radical)
 
 ---
 
