@@ -25,12 +25,12 @@
     <tr>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
-        <br><strong>🎨 Frontend Specialist</strong>
+        <br><strong>🎨 Frontend UX / UI</strong>
         <br>Criando interfaces modernas e responsivas
       </td>
       <td align="center" width="50%">
         <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
-        <br><strong>⚙️ Backend Expert</strong>
+        <br><strong>⚙️ Backend Developer</strong>
         <br>Desenvolvendo APIs robustas e escaláveis
       </td>
     </tr>
