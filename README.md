@@ -250,13 +250,6 @@ const jeremias = {
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremiasONunes&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
 ## 📈 Jornada Profissional & Educacional
 
