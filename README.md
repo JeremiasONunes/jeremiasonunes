@@ -75,9 +75,6 @@ const jeremias = {
   <table>
     <tr>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JeremiasONunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-      </td>
-      <td>
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasONunes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
       </td>
     </tr>
