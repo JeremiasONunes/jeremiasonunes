@@ -81,20 +81,53 @@ const jeremias = {
   </table>
 </div>
 
-## 🎯 Projetos em Destaque
+## 🎯 Projetos em Destaque - Lunysse
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150">
+        <img src="https://lunysse.vercel.app/logo.png" width="150">
         <h3>🏥 Sistema de Agendamento Psicológico</h3>
-        <p><strong>React + Vite + Tailwind CSS + Flask</strong></p>
+        <p><strong>React + Vite + Tailwind CSS + FastApi</strong></p>
         <ul align="left">
           <li>🎨 Interface moderna com glassmorphism</li>
           <li>📊 Dashboard para psicólogos e pacientes</li>
           <li>🔗 API RESTful completa</li>
           <li>📱 Responsivo e acessível</li>
+          <li><a href="https://lunysse.vercel.app" target="_blank">🌙 Lunysse — acessar projeto</a></li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150">
+        <h3>🌐 Aplicações Full Stack</h3>
+        <p><strong>Integração Front-end + Back-end</strong></p>
+        <ul align="left">
+          <li>⚡ CRUD completo e otimizado</li>
+          <li>🔒 Autenticação e autorização</li>
+          <li>🛡️ APIs seguras e eficientes</li>
+          <li>🚀 Deploy em produção</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎯 Projetos em Destaque - MeeTStrangers
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" bgcolor="#0d0d0d">
+        <img src="https://raw.githubusercontent.com/JeremiasONunes/meet-strangers-front-end/refs/heads/main/public/favicon.ico" width="150">
+        <h3>Sistema de troca de mensagens online -  MeetStranger</h3>
+        <p><strong>React + Vite + Tailwind CSS + Express</strong></p>
+        <ul align="left">
+          <li>🎨 Interface moderna com glassmorphism</li>
+          <li>📊 Conexões com pessoas através da internet</li>
+          <li>🔗 API RESTful completa</li>
+          <li>📱 Responsivo e acessível</li>
+          <li><a href="https://meet-strangers-front-end.vercel.app/" target="_blank">💬 Acessar MeeTStrangers</a></li>
         </ul>
       </td>
       <td align="center" width="50%">
@@ -102,7 +135,6 @@ const jeremias = {
         <h3>🌐 Aplicações Full Stack</h3>
         <p><strong>Integração Front-end + Back-end</strong></p>
         <ul align="left">
-          <li>⚡ CRUD completo e otimizado</li>
           <li>🔒 Autenticação e autorização</li>
           <li>🛡️ APIs seguras e eficientes</li>
           <li>🚀 Deploy em produção</li>
