@@ -12,7 +12,7 @@
 
 ```javascript
 const jeremias = {
-    localização: "Congonhal, Minas Gerais, Brasil 🇧🇷",
+    localização: "Pouso Alegre, Minas Gerais, Brasil 🇧🇷",
     profissão: "Desenvolvedor Full Stack & Professor SENAC",
     email: "jeremiasonunes@gmail.com",
     foco: ["Educação Tech", "Desenvolvimento Web", "APIs RESTful", "Mentoria"],
