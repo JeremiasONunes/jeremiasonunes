@@ -1,244 +1,195 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeremias%20de%20Oliveira%20Nunes&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Python%20%7C%20Flask&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeremias%20de%20Oliveira%20Nunes&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20UX%20Design%20Student%20%7C%20EdTech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2493BF&center=true&vCenter=true&width=900&lines=👋+Olá%2C+eu+sou+Jeremias!;🚀+Desenvolvedor+Full+Stack;👨🏫+Professor+SENAC+%7C+Eixo+Tecnologia;💻+React+%7C+Python+%7C+Flask;🎯+Educador+e+Mentor;🌟+Transformando+vidas+com+a+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2493BF&center=true&vCenter=true&width=900&lines=👋+Olá%2C+eu+sou+Jeremias!;🚀+Software+Engineer+%26+EdTech;🎨+UX+Design+Student+(Code+meets+Design);👨🏫+Professor+SENAC+%7C+Eixo+de+TI;🌟+Transformando+vidas+com+tecnologia" alt="Typing SVG" />
 </div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremiasonunes)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremiasONunes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiasonunes@gmail.com)
+[![Lunysse](https://img.shields.io/badge/🌙_Lunysse-Live_Demo-2493BF?style=for-the-badge)](https://lunysse.vercel.app)
+
+</div>
+
+---
 
 ## 🚀 Sobre Mim
 
-> **Desenvolvedor Full Stack & Educador** apaixonado por tecnologia e educação. Atuo como **Professor no SENAC** no eixo de Tecnologia da Informação e **mentor de jovens talentos** em programação e comunicação. Acredito no poder da tecnologia como ferramenta de transformação pessoal e social.
+Sou um **Software Engineer Full Stack** com uma combinação pouco comum no mercado: escrevo código, projeto interfaces centradas no usuário e ensino os dois. Atuo como **Professor no SENAC** no eixo de Tecnologia da Informação e estou cursando **pós-graduação em UX Design** — o que me permite entregar produtos que são ao mesmo tempo tecnicamente sólidos e intuitivos para quem os usa.
 
-```javascript
-const jeremias = {
-    localização: "Pouso Alegre, Minas Gerais, Brasil 🇧🇷",
-    profissão: "Desenvolvedor Full Stack & Professor SENAC",
-    email: "jeremiasonunes@gmail.com",
-    foco: ["Educação Tech", "Desenvolvimento Web", "APIs RESTful", "Mentoria"],
-    tecnologias: {
-        frontend: ["React", "Vite", "Tailwind CSS", "JavaScript", "HTML5", "CSS3"],
-        backend: ["Python", "Django", "Flask", "FastAPI", "Express", "Axios"],
-        database: ["SQL", "SQLite", "PostgreSQL", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman", "Insomnia"]
-    },
-    educação: {
-        atual: "Bacharelado em Sistemas de Informação - UNIVÁS (2022-2026)",
-        técnico: "Técnico em Informática - SENAC",
-        especialização: "Cyber Segurança - Cisco Academy"
-    },
-    experiência: {
-        senac: "Professor - Desenvolvimento de Sistemas, Redes e Informática",
-        happy: "Mentor de Code e Speech (2023)",
-        dio: "Embaixador DIO Campus Expert (2024)"
-    },
-    metodologias: ["Ensino 4.0", "Metodologias Ativas", "TDD", "Agile"],
-    missão: "Tornar o aprendizado acessível, prático e transformador"
+Minha missão é construir sistemas escaláveis e aplicar metodologias de ensino que **aceleram a curva de aprendizado** de novos desenvolvedores.
+
+```typescript
+interface Developer { skills: string[]; buildsWith: string[] }
+interface Educator  { reaches: string; teaches: string[] }
+interface UXDesigner { focus: string; methods: string[] }
+
+const jeremias: Developer & Educator & UXDesigner = {
+    location:     "Pouso Alegre, Minas Gerais, Brasil 🇧🇷",
+    role:         "Software Engineer & EdTech Enthusiast",
+    currentStudy: "Pós-Graduação em UX Design 🎨",
+
+    buildsWith:   ["React", "FastAPI", "Flask", "Python", "TypeScript"],
+    teaches:      ["Desenvolvimento de Sistemas", "Redes", "Metodologias Ativas"],
+    focus:        "Unir código limpo, design centrado no usuário e educação acessível",
+    methods:      ["User Research", "Wireframing", "Usability Testing"],
+
+    bridge:       "Code  →  Design  →  Education",
+    status:       "🚀 Aberto a desafios, colaborações e mentorias",
+
+    sayHello: () => console.log("Vamos transformar o mundo com código e design?")
 };
 ```
 
-## 🛠️ Arsenal Tecnológico
+---
+
+## 🎯 O Que Me Diferencia
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,python,flask,sqlite,postgres,git,github,vscode,postman,figma&perline=8" />
+
+| 💻 Software Engineer | 🎨 UX Designer (pós) | 👨🏫 Educator |
+|:---:|:---:|:---:|
+| Full Stack + APIs RESTful | User Research + Usability | SENAC + Mentoria |
+| Sistemas escaláveis | Interfaces centradas no usuário | Metodologias Ativas |
+| Clean Architecture | Wireframing + Prototipagem | Ensino 4.0 |
+
+> Poucos engenheiros entendem de UX. Poucos designers sabem programar. Ainda menos sabem ensinar os dois.
+
 </div>
 
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,js,html,css,python,fastapi,flask,sqlite,postgres,git,github,vscode,figma&perline=8" />
+</div>
+
+<br>
+
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend & UX
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🔧 Ferramentas & DevOps
+### 🗄️ Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-## 📊 Estatísticas GitHub
+---
+
+## 🌱 Atualmente Focado Em
+
+```
+🎨  Aprofundando UX Research e usability testing na pós-graduação
+⚡  Explorando arquitetura de microsserviços
+♿  Acessibilidade Web (WCAG 2.1) — onde UX e código se encontram
+🔐  Segurança em APIs 
+```
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🌙 [Lunysse — Sistema de Agendamento Psicológico](https://lunysse.vercel.app)
+
+**Stack:** React + Vite + Tailwind CSS + FastAPI + PostgreSQL
+
+Interface projetada com foco em **redução de fricção no fluxo de agendamento**, aplicando princípios de UX para tornar o processo intuitivo tanto para psicólogos quanto para pacientes.
+
+- Autenticação JWT com controle de perfis (psicólogo / paciente)
+- Dashboard com visualização de agenda e histórico
+- API RESTful documentada com arquitetura limpa no back-end
+- Interface responsiva e acessível
+
+[![Ver Projeto](https://img.shields.io/badge/🌙_Lunysse-Acessar_Demo-2493BF?style=for-the-badge)](https://lunysse.vercel.app)
+[![Repositório](https://img.shields.io/badge/GitHub-Código_Fonte-100000?style=for-the-badge&logo=github)](https://github.com/JeremiasONunes)
+
+---
+
+### 💬 [MeeTStrangers — Troca de Mensagens Online](https://meet-strangers-front-end.vercel.app/)
+
+**Stack:** React + Vite + Tailwind CSS + Express + Node.js
+
+Plataforma de conexão entre pessoas via internet, com foco em uma experiência de chat fluida e responsiva.
+
+- Autenticação e autorização de usuários
+- Comunicação em tempo real
+- API RESTful segura e eficiente
+- Deploy em produção
+
+[![Ver Projeto](https://img.shields.io/badge/💬_MeeTStrangers-Acessar_Demo-2493BF?style=for-the-badge)](https://meet-strangers-front-end.vercel.app/)
+
+---
+
+## 📈 Experiência Profissional
+
+**👨🏫 SENAC Minas — Professor** *(2021–2022, 2025–presente)*
+Desenvolvimento de Sistemas, Redes e Informática para o eixo de Tecnologia. Aplicação de metodologias ativas e Ensino 4.0 para tornar o aprendizado técnico mais prático e acessível.
+
+**🎯 Happy Pouso Alegre — Educador** *(2023)*
+Mentor de programação e comunicação para jovens de 7 a 14 anos, desenvolvendo lógica de programação e soft skills desde cedo.
+
+**🌟 DIO Campus Expert — Embaixador** *(2024)*
+Liderança estudantil, organização de eventos e workshops de tecnologia, conectando a comunidade acadêmica ao mercado.
+
+---
+
+## 🎓 Formação
+
+- 📚 **Bacharelado em Sistemas de Informação** — UNIVÁS (2022–2026)
+- 🎨 **Pós-Graduação em UX Design** *(em andamento)*
+- 🔐 **Especialização em Cyber Segurança** — Cisco Academy
+- 🖥️ **Técnico em Informática** — SENAC
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JeremiasONunes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremiasONunes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<br>
 
-## 🎯 Projetos em Destaque - Lunysse
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://lunysse.vercel.app/logo.png" width="150">
-        <h3>🏥 Sistema de Agendamento Psicológico</h3>
-        <p><strong>React + Vite + Tailwind CSS + FastApi</strong></p>
-        <ul align="left">
-          <li>🎨 Interface moderna com glassmorphism</li>
-          <li>📊 Dashboard para psicólogos e pacientes</li>
-          <li>🔗 API RESTful completa</li>
-          <li>📱 Responsivo e acessível</li>
-          <li><a href="https://lunysse.vercel.app" target="_blank">🌙 Lunysse — acessar projeto</a></li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150">
-        <h3>🌐 Aplicações Full Stack</h3>
-        <p><strong>Integração Front-end + Back-end</strong></p>
-        <ul align="left">
-          <li>⚡ CRUD completo e otimizado</li>
-          <li>🔒 Autenticação e autorização</li>
-          <li>🛡️ APIs seguras e eficientes</li>
-          <li>🚀 Deploy em produção</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎯 Projetos em Destaque - MeeTStrangers
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" bgcolor="#0d0d0d">
-        <img src="https://raw.githubusercontent.com/JeremiasONunes/meet-strangers-front-end/refs/heads/main/public/favicon.ico" width="150">
-        <h3>Sistema de troca de mensagens online -  MeetStranger</h3>
-        <p><strong>React + Vite + Tailwind CSS + Express</strong></p>
-        <ul align="left">
-          <li>🎨 Interface moderna com glassmorphism</li>
-          <li>📊 Conexões com pessoas através da internet</li>
-          <li>🔗 API RESTful completa</li>
-          <li>📱 Responsivo e acessível</li>
-          <li><a href="https://meet-strangers-front-end.vercel.app/" target="_blank">💬 Acessar MeeTStrangers</a></li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
-        <h3>🌐 Aplicações Full Stack</h3>
-        <p><strong>Integração Front-end + Back-end</strong></p>
-        <ul align="left">
-          <li>🔒 Autenticação e autorização</li>
-          <li>🛡️ APIs seguras e eficientes</li>
-          <li>🚀 Deploy em produção</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 Experiência Profissional
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="80">
-        <br><strong>👨🏫 SENAC Minas</strong>
-        <br><em>Professor (2021-2022, 2025-presente)</em>
-        <br>• Desenvolvimento de Sistemas
-        <br>• Metodologias Ativas
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80">
-        <br><strong>🎯 Happy Pouso Alegre</strong>
-        <br><em>Educador (2023)</em>
-        <br>• Programação para jovens (10-14 anos)
-        <br>• Programação infantil (7-9 anos)
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80">
-        <br><strong>🌟 DIO Campus Expert</strong>
-        <br><em>Embaixador (2024)</em>
-        <br>• Liderança estudantil
-        <br>• Eventos e workshops
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌟 Filosofia & Princípios
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>💡 Meus Princípios</h3>
-        <ul align="left">
-          <li>🎯 <strong>Código Limpo:</strong> Legibilidade e manutenibilidade</li>
-          <li>🔄 <strong>Melhoria Contínua:</strong> Sempre aprendendo e evoluindo</li>
-          <li>🤝 <strong>Colaboração:</strong> Trabalho em equipe e comunicação</li>
-          <li>🚀 <strong>Inovação:</strong> Soluções criativas e eficientes</li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎨 Metodologias</h3>
-        <ul align="left">
-          <li>⚡ <strong>Agile/Scrum:</strong> Desenvolvimento iterativo</li>
-          <li>🧪 <strong>TDD:</strong> Test-Driven Development</li>
-          <li>🏗️ <strong>Clean Architecture:</strong> Separação de responsabilidades</li>
-          <li>🔄 <strong>CI/CD:</strong> Integração e deploy contínuo</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
+## 💡 Princípios
 
 > *"A melhor maneira de prever o futuro é inventá-lo."* — **Alan Kay**
 
-</div>
+- **Código Limpo:** escrevo para ser lido por humanos, não só por máquinas
+- **Design Intencional:** cada detalhe de interface tem um porquê
+- **Melhoria Contínua:** aprendo, ensino, repito
+- **Colaboração:** a melhor solução raramente vem de uma pessoa só
 
-## 🤝 Vamos Conectar?
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/jeremiasonunes">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <br>Conecte-se profissionalmente
-      </td>
-      <td align="center">
-        <a href="https://github.com/JeremiasONunes">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <br>Explore meus projetos
-      </td>
-      <td align="center">
-        <a href="mailto:jeremiasonunes@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <br>Entre em contato
-      </td>
-    </tr>
-  </table>
-</div>
+## 💼 Disponível Para
 
-### 💼 Disponível para:
-- 💻 **Desenvolvimento Full Stack**
-- 🤝 **Colaborações em Projetos**
-- 📚 **Mentorias e Consultorias**
-- 👨🏫 **Oportunidades de Docência**
+- 💻 Desenvolvimento Full Stack (React + Python/FastAPI)
+- 🎨 Projetos que cruzam engenharia e UX
+- 🤝 Colaborações open source
+- 👨🏫 Mentorias, consultorias e docência
 
 ---
 
@@ -247,9 +198,8 @@ const jeremias = {
 </div>
 
 <div align="center">
-  <h3>💡 "Acredito no poder da educação e da tecnologia para transformar vidas!" 💡</h3>
-  <h4>🎓 Professor SENAC | 💻 Desenvolvedor Full Stack | 🌟 Mentor de Talentos</h4>
-  
+  <h4>🎨 UX Design Student | 💻 Software Engineer | 👨🏫 Professor SENAC</h4>
+
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JeremiasONunes.JeremiasONunes&color=2493BF&style=for-the-badge)
   ![Profile Views](https://komarev.com/ghpvc/?username=JeremiasONunes&color=2493BF&style=for-the-badge)
 </div>
