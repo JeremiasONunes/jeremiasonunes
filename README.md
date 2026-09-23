@@ -1,205 +1,128 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeremias%20de%20Oliveira%20Nunes&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20UX%20Design%20Student%20%7C%20EdTech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
-</div>
+# Jeremias de Oliveira Nunes
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2493BF&center=true&vCenter=true&width=900&lines=👋+Olá%2C+eu+sou+Jeremias!;🚀+Software+Engineer+%26+EdTech;🎨+UX+Design+Student+(Code+meets+Design);👨🏫+Professor+SENAC+%7C+Eixo+de+TI;🌟+Transformando+vidas+com+tecnologia" alt="Typing SVG" />
-</div>
+**Software Engineer Full Stack · Pós-graduando em UX Design · Professor no SENAC Minas**
 
-<br>
+Pouso Alegre, Minas Gerais, Brasil
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremiasonunes)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeremiasONunes)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremiasonunes@gmail.com)
-[![Restro Gestão](https://img.shields.io/badge/🍽️_RestroGestão_Demo-2493BF?style=for-the-badge)](https://www.restrogestao.com.br)
-
-</div>
+[LinkedIn](https://linkedin.com/in/jeremiasonunes) · [E-mail](mailto:jeremiasonunes@gmail.com) · [GitHub](https://github.com/JeremiasONunes)
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre
 
-Sou um **Software Engineer Full Stack** com uma combinação pouco comum no mercado: escrevo código, projeto interfaces centradas no usuário e ensino os dois. Atuo como **Professor no SENAC** no eixo de Tecnologia da Informação e estou cursando **pós-graduação em UX Design** — o que me permite entregar produtos que são ao mesmo tempo tecnicamente sólidos e intuitivos para quem os usa.
+Desenvolvo produtos digitais em que a qualidade técnica e a experiência do usuário caminham juntas. Atuo como engenheiro de software full stack, curso pós-graduação em UX Design e leciono no eixo de Tecnologia da Informação do SENAC Minas.
 
-Minha missão é construir sistemas escaláveis e aplicar metodologias de ensino que **aceleram a curva de aprendizado** de novos desenvolvedores.
-
-```typescript
-interface Developer { skills: string[]; buildsWith: string[] }
-interface Educator  { reaches: string; teaches: string[] }
-interface UXDesigner { focus: string; methods: string[] }
-
-const jeremias: Developer & Educator & UXDesigner = {
-    location:     "Pouso Alegre, Minas Gerais, Brasil 🇧🇷",
-    role:         "Software Engineer & EdTech Enthusiast",
-    currentStudy: "Pós-Graduação em UX Design 🎨",
-
-    buildsWith:   ["React", "FastAPI", "Flask", "Python", "TypeScript"],
-    teaches:      ["Desenvolvimento de Sistemas", "Redes", "Metodologias Ativas"],
-    focus:        "Unir código limpo, design centrado no usuário e educação acessível",
-    methods:      ["User Research", "Wireframing", "Usability Testing"],
-
-    bridge:       "Code  →  Design  →  Education",
-    status:       "🚀 Aberto a desafios, colaborações e mentorias",
-
-    sayHello: () => console.log("Vamos transformar o mundo com código e design?")
-};
-```
+Essa combinação orienta a forma como trabalho: começo pelo entendimento de quem vai usar o produto, valido as decisões de interface antes de escrever código e entrego soluções acessíveis, consistentes e fáceis de manter.
 
 ---
 
-## 🎯 O Que Me Diferencia
+## Áreas de atuação
 
-<div align="center">
+**Design de experiência**
+Pesquisa com usuários, arquitetura de informação, wireframes, prototipação no Figma, testes de usabilidade e acessibilidade (WCAG 2.1).
 
-| 💻 Software Engineer | 🎨 UX Designer (pós) | 👨🏫 Educator |
-|:---:|:---:|:---:|
-| Full Stack + APIs RESTful | User Research + Usability | SENAC + Mentoria |
-| Sistemas escaláveis | Interfaces centradas no usuário | Metodologias Ativas |
-| Clean Architecture | Wireframing + Prototipagem | Ensino 4.0 |
+**Engenharia de software**
+Aplicações full stack com React e Python, APIs RESTful, arquitetura limpa, autenticação e segurança de APIs.
 
-> Poucos engenheiros entendem de UX. Poucos designers sabem programar. Ainda menos sabem ensinar os dois.
-
-</div>
+**Educação**
+Docência em Desenvolvimento de Sistemas e Redes, metodologias ativas e mentoria de novos desenvolvedores.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Como trabalho
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,js,html,css,python,fastapi,flask,sqlite,postgres,git,github,vscode,figma&perline=8" />
-</div>
-
-<br>
-
-<div align="center">
-
-### 🎨 Frontend & UX
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🗄️ Banco de Dados & Ferramentas
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
+1. **Entender** — pesquisa com usuários e mapeamento do problema antes de propor soluções.
+2. **Definir** — fluxos, arquitetura de informação e requisitos a partir do que foi aprendido.
+3. **Prototipar** — wireframes e protótipos para validar ideias cedo e com baixo custo.
+4. **Testar** — testes de usabilidade para identificar pontos de fricção.
+5. **Construir** — implementação com componentes consistentes, código limpo e acessibilidade desde o início.
+6. **Iterar** — ajustes contínuos com base no uso real.
 
 ---
 
-## 🌱 Atualmente Focado Em
+## Projetos em destaque
 
-```
-🎨  Aprofundando UX Research e usability testing na pós-graduação
-⚡  Explorando arquitetura de microsserviços
-♿  Acessibilidade Web (WCAG 2.1) — onde UX e código se encontram
-🔐  Segurança em APIs 
-```
+### Lunysse — Sistema de agendamento psicológico
 
----
+React · Vite · Tailwind CSS · FastAPI · PostgreSQL
+[Acessar demo](https://lunysse.vercel.app) · [Código-fonte](https://github.com/JeremiasONunes)
 
-## 📂 Projetos em Destaque
+**Desafio:** o agendamento de consultas envolve dois públicos com necessidades diferentes, psicólogos e pacientes, e qualquer atrito no processo afasta quem já está buscando ajuda.
 
-### 🌙 [Lunysse — Sistema de Agendamento Psicológico](https://lunysse.vercel.app)
+**Abordagem de UX:** fluxo de agendamento desenhado para reduzir etapas e pontos de dúvida, com experiências distintas para cada perfil e interface responsiva e acessível.
 
-**Stack:** React + Vite + Tailwind CSS + FastAPI + PostgreSQL
+**Implementação:** autenticação JWT com controle de perfis, dashboard com agenda e histórico, API RESTful documentada e arquitetura limpa no back-end.
 
-Interface projetada com foco em **redução de fricção no fluxo de agendamento**, aplicando princípios de UX para tornar o processo intuitivo tanto para psicólogos quanto para pacientes.
+### MeeTStrangers — Troca de mensagens em tempo real
 
-- Autenticação JWT com controle de perfis (psicólogo / paciente)
-- Dashboard com visualização de agenda e histórico
-- API RESTful documentada com arquitetura limpa no back-end
-- Interface responsiva e acessível
+React · Vite · Tailwind CSS · Node.js · Express
+[Acessar demo](https://meet-strangers-front-end.vercel.app/)
 
-[![Ver Projeto](https://img.shields.io/badge/🌙_Lunysse-Acessar_Demo-2493BF?style=for-the-badge)](https://lunysse.vercel.app)
-[![Repositório](https://img.shields.io/badge/GitHub-Código_Fonte-100000?style=for-the-badge&logo=github)](https://github.com/JeremiasONunes)
+**Desafio:** conectar pessoas que não se conhecem por meio de uma conversa que precisa parecer imediata e natural.
 
----
+**Abordagem de UX:** foco em uma experiência de chat fluida e responsiva, com interface enxuta que coloca a conversa em primeiro plano.
 
-### 💬 [MeeTStrangers — Troca de Mensagens Online](https://meet-strangers-front-end.vercel.app/)
+**Implementação:** autenticação e autorização de usuários, comunicação em tempo real, API RESTful e deploy em produção.
 
-**Stack:** React + Vite + Tailwind CSS + Express + Node.js
+### RestroGestão — Gestão para restaurantes
 
-Plataforma de conexão entre pessoas via internet, com foco em uma experiência de chat fluida e responsiva.
+[Acessar demo](https://www.restrogestao.com.br)
 
-- Autenticação e autorização de usuários
-- Comunicação em tempo real
-- API RESTful segura e eficiente
-- Deploy em produção
-
-[![Ver Projeto](https://img.shields.io/badge/💬_MeeTStrangers-Acessar_Demo-2493BF?style=for-the-badge)](https://meet-strangers-front-end.vercel.app/)
+<!-- Complete com: stack, desafio, abordagem de UX e implementação, seguindo o formato dos projetos acima. -->
 
 ---
 
-## 📈 Experiência Profissional
+## Experiência
 
-**👨🏫 SENAC Minas — Professor** *(2021–2022, 2025–presente)*
-Desenvolvimento de Sistemas, Redes e Informática para o eixo de Tecnologia. Aplicação de metodologias ativas e Ensino 4.0 para tornar o aprendizado técnico mais prático e acessível.
+**Professor — SENAC Minas**
+2021–2022 · 2025–atual
+Docência em Desenvolvimento de Sistemas, Redes e Informática no eixo de Tecnologia. Aplicação de metodologias ativas e Ensino 4.0 para tornar o aprendizado técnico mais prático e acessível.
 
-**🎯 Happy Pouso Alegre — Educador** *(2023)*
-Mentor de programação e comunicação para jovens de 7 a 14 anos, desenvolvendo lógica de programação e soft skills desde cedo.
+**Embaixador — DIO Campus Expert**
+2024
+Liderança estudantil, organização de eventos e workshops de tecnologia, aproximando a comunidade acadêmica do mercado.
 
-**🌟 DIO Campus Expert — Embaixador** *(2024)*
-Liderança estudantil, organização de eventos e workshops de tecnologia, conectando a comunidade acadêmica ao mercado.
-
----
-
-## 🎓 Formação
-
-- 📚 **Bacharelado em Sistemas de Informação** — UNIVÁS (2022–2026)
-- 🎨 **Pós-Graduação em UX Design** *(em andamento)*
-- 🔐 **Especialização em Cyber Segurança** — Cisco Academy
-- 🖥️ **Técnico em Informática** — SENAC
+**Educador — Happy Pouso Alegre**
+2023
+Mentoria em programação e comunicação para crianças e adolescentes de 7 a 14 anos, desenvolvendo lógica de programação e habilidades socioemocionais.
 
 ---
 
-## 📊 GitHub Stats
+## Formação
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeremiasONunes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
-<br>
-
----
-
-## 💡 Princípios
-
-> *"A melhor maneira de prever o futuro é inventá-lo."* — **Alan Kay**
-
-- **Código Limpo:** escrevo para ser lido por humanos, não só por máquinas
-- **Design Intencional:** cada detalhe de interface tem um porquê
-- **Melhoria Contínua:** aprendo, ensino, repito
-- **Colaboração:** a melhor solução raramente vem de uma pessoa só
+- **Pós-graduação em UX Design** — em andamento
+- **Bacharelado em Sistemas de Informação** — UNIVÁS, 2022–2026
+- **Especialização em Cibersegurança** — Cisco Networking Academy
+- **Técnico em Informática** — SENAC
 
 ---
 
-## 💼 Disponível Para
+## Tecnologias e ferramentas
 
-- 💻 Desenvolvimento Full Stack (React + Python/FastAPI)
-- 🎨 Projetos que cruzam engenharia e UX
-- 🤝 Colaborações open source
-- 👨🏫 Mentorias, consultorias e docência
+| Área | Ferramentas |
+|---|---|
+| Design | Figma |
+| Front-end | React, TypeScript, JavaScript, Vite, Tailwind CSS, HTML, CSS |
+| Back-end | Python, FastAPI, Flask, Node.js, Express |
+| Dados | PostgreSQL, SQLite |
+| Fluxo de trabalho | Git, GitHub, Postman, VS Code |
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
-</div>
+## Estudando atualmente
 
-<div align="center">
-  <h4>🎨 UX Design Student | 💻 Software Engineer | 👨🏫 Professor SENAC</h4>
+- UX Research e testes de usabilidade
+- Acessibilidade web (WCAG 2.1)
+- Arquitetura de microsserviços
+- Segurança em APIs
 
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JeremiasONunes.JeremiasONunes&color=2493BF&style=for-the-badge)
-  ![Profile Views](https://komarev.com/ghpvc/?username=JeremiasONunes&color=2493BF&style=for-the-badge)
-</div>
+---
+
+## Disponível para
+
+- Projetos que unem engenharia de software e UX
+- Desenvolvimento full stack com React e Python
+- Colaborações open source
+- Mentorias, consultorias e docência
+
+Se quiser conversar sobre um projeto ou oportunidade, entre em contato pelo [LinkedIn](https://linkedin.com/in/jeremiasonunes) ou pelo [e-mail](mailto:jeremiasonunes@gmail.com).
